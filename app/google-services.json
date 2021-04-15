@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212664591754",
+    "project_id": "barcode-e8bfb",
+    "storage_bucket": "barcode-e8bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212664591754:android:0d24c6f180581ca6c05473",
+        "android_client_info": {
+          "package_name": "com.example.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212664591754-nision40itffi62cn7dbiqiki19ma1kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barcode",
+            "certificate_hash": "6f1740000977f5cf9f65cc1ed6e0c519e0ff4388"
+          }
+        },
+        {
+          "client_id": "212664591754-esu7otqfc0aiq7trdl9offbqqebb0vb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBnh2wav4oPyEvMMzpTzSu1rWakLkPQbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212664591754-esu7otqfc0aiq7trdl9offbqqebb0vb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
